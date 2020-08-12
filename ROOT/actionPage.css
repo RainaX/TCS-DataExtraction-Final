@@ -1,0 +1,11 @@
+h1 {text-align: center; color: black}
+p  {text-align: center; font-size: 15pt;}
+div {text-align: center;}
+form{text-align: center;}
+/* #submitButton{
+    background-color: lightyellow;
+} */
+body{background-color: #e0ebe8;}
+.logo{
+    margin:auto;
+}

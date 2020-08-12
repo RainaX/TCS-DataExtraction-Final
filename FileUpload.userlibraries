@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.transaction.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.servlet.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.persistence.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.servlet.jsp.jstl.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.jms.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.resource.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.ejb.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.servlet.jsp.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.annotation.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.ejb.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.jms.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.servlet.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.resource.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.annotation.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.persistence.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.servlet.jsp.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.transaction.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/lib/javax.servlet.jsp.jstl.jar" />
+  </library>
+  <library name="lib1">
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/web/WEB-INF/lib/pdfbox-2.0.16.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/web/WEB-INF/lib/fontbox-2.0.16.jar" />
+    <archive path="C:/Users/zhang/OneDrive/Desktop/CMUProject_Financial_Data_Extraction/Webpage/FileUpload/web/WEB-INF/lib/commons-logging-1.2.jar" />
+  </library>
+</eclipse-userlibraries>
+

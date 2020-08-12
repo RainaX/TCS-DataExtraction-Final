@@ -1,0 +1,43 @@
+h1 {text-align: center;}
+h2 {text-align: center;}
+p{text-align: center; font-size: 15pt;}
+form{text-align: center;}
+
+body{background-color: #e0ebe8;}
+.loader {
+    border: 10px solid #b1cff1;
+    border-radius: 50%;
+    border-top: 10px solid #3498db;
+    width: 40px;
+    height: 40px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+    margin:auto;
+  }
+  .options{
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    left: 46.5%;
+  }
+  .button{
+    background-color:lightyellow;
+
+  }
+
+  /* Safari */
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .jsonClass{
+      margin: auto;
+      width:600px;
+      height:300px;
+  }
