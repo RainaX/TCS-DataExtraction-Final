@@ -71,7 +71,7 @@ d. Set up username and password as app manager on Tomcat. Modify file `apache-to
 
 ## Install the table extraction web application
      
-a. Clone this github repository. We saved the folder at path `/home/ubuntu/`. You need to modify all python files to replace this path with your own if you saved the folder in another directory.
+a. Clone this github repository. We saved the folder at path `/home/ubuntu/`. You need to modify all python files to replace this path with your own if you saved the folder in another directory. Then download the checkpoint file from this link: `https://drive.google.com/file/d/1z21BLmpF-3RgOBrEogRbg0uNZCkMX-Ez/view?usp=sharing` and put it in the github repository.
 
 b. Go to your Apache Tomcat directory and then go to `bin/` folder. Run the following command in your shell to start the Tomcat server:
 
